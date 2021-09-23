@@ -1,4 +1,20 @@
-### Hi there 👋
+
+### Hi 👋, I'm Rutuja
+#### A passionate QA Engineer from India
+
+
+I am currently learning the fundamentals of Software Testing
+
+Skills: Software Testing
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
 
 <!--
 **RutujaPol/RutujaPol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
