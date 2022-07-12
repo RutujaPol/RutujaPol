@@ -1,13 +1,13 @@
 
 ### Hi 👋, I'm Rutuja
-#### A passionate QA Engineer from India
+#### A passionate Cloud Engineer from India
 
 
-I am currently learning the fundamentals of Software Testing
+I am currently learning the fundamentals of Cloud Computing
 
-Skills: Software Testing
+Skills: AWS, Terraform
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Cloud based projects. 
 
 
 
